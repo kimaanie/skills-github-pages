@@ -1,0 +1,4 @@
+theme: minima
+title: {{ login }}'s research blog
+description: This is where I share news about my research
+author: {{ login }}
